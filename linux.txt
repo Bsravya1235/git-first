@@ -1,2 +1,3 @@
 i am learning linux commands...
 i am learning basic commands..
+ls,cat,mkdir,echo
